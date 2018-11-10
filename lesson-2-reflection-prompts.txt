@@ -21,3 +21,6 @@ How is the staging area different from the working directory and the repository?
 this s an intermediate area where you add files before committing them
 How can you use the staging area to make sure you have one commit per logical change?
 the staging area is used to group a logical piece of work before commiting the changes to the repository
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+whwn making an experimental change or a different version
