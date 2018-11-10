@@ -29,3 +29,6 @@ by mappting them it is easier to visualize all branches
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 it resolves ll the difference on a branch and allows us to merge versions
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+resolves conflicts, but cannot deal with conflicts without manual intervention
